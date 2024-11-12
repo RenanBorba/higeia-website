@@ -1,8 +1,9 @@
 ## Website Landing Page - Higeia Educação e Inclusão em Saúde
-Website responsivo desenvolvido em React
+Website responsivo desenvolvido em React 
 
+<br>
 
-![localhost_3000_v5](https://github.com/user-attachments/assets/294f7fa0-0af2-4fff-9c25-140d81ae5d01)
+![localhost_3000_v5](https://github.com/user-attachments/assets/37bd06aa-202f-4bfe-ae15-93eaa3ff6385)
 
 <br>
 
