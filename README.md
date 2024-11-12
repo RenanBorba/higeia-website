@@ -10,4 +10,4 @@ Website responsivo desenvolvido em React
 
 <br>
 
-[home-mobile.webm](https://github.com/user-attachments/assets/01879c2e-ac86-494d-a8a6-9d0c20479f01)
+[home-mobile.webm](https://github.com/user-attachments/assets/20a15ac0-4995-4709-8bc1-cf4fa4bf6726)
