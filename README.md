@@ -2,12 +2,12 @@
 Website responsivo desenvolvido em React
 
 
-![home](https://github.com/user-attachments/assets/1bc2e422-9325-4331-affb-4ebee0c8f4e8)
+![localhost_3000_v5](https://github.com/user-attachments/assets/294f7fa0-0af2-4fff-9c25-140d81ae5d01)
 
 <br>
 
-[home-mobile.webm](https://github.com/user-attachments/assets/f254155e-8ba3-49fe-a380-b7b85b2bf895)
+[home-web.webm](https://github.com/user-attachments/assets/f69ba9b4-ef99-43bb-9609-4b45318a4552)
 
 <br>
 
-[home-vid.webm](https://github.com/user-attachments/assets/b1b784ee-1ca3-4529-bd24-1e5785a5ee57)
+[home-mobile.webm](https://github.com/user-attachments/assets/01879c2e-ac86-494d-a8a6-9d0c20479f01)
