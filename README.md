@@ -3,12 +3,12 @@ Website responsivo desenvolvido em React
 
 <br>
 
-![localhost_3000_v5](https://github.com/user-attachments/assets/37bd06aa-202f-4bfe-ae15-93eaa3ff6385)
+![localhost_3000_v6](https://github.com/user-attachments/assets/cd367c23-5925-4904-a38b-12c8c3b8d6ed)
 
 <br>
 
-[home-web.webm](https://github.com/user-attachments/assets/f69ba9b4-ef99-43bb-9609-4b45318a4552)
+[web-home.webm](https://github.com/user-attachments/assets/75630930-7492-4940-a5ba-d44644068089)
 
 <br>
 
-[home-mobile.webm](https://github.com/user-attachments/assets/20a15ac0-4995-4709-8bc1-cf4fa4bf6726)
+[mobile-home.webm](https://github.com/user-attachments/assets/b5393e14-5269-4452-baf9-35fc1c29cea7)
